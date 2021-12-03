@@ -3,7 +3,7 @@ __copyright__ = "Copyright (C) 2021 The University of Manchester"
 
 
 from unittest import TestCase
-from nose.tools import assert_equals, assert_in, assert_raises
+#from nose.tools import assert_equals, assert_in, assert_raises
 
 from simploku import SimplokuPuzzle, SolutionNotFoundError
 
